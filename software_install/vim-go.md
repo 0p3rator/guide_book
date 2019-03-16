@@ -3,11 +3,14 @@
 ## Environment requires
 
 - vim 8
-- golang 1.8 or higher
 - vundle
+- golang 1.8 or higher
 - v2ray(vpn)
 - cow(transfer from socks5 to https)
+- vim-go
 
-## vim8 
+---
 
-**We install vim 8 from binaries file**
+1. [vim8](vim8.md) 
+2. [vundle](vundle.md)
+
